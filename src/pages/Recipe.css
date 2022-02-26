@@ -1,0 +1,61 @@
+.title-recipe {
+  margin: 6% 11% 2%;
+  color: darkgray;
+  font-weight: 600;
+}
+
+.recipe-add-button {
+  width: 80%;
+  margin: 4% 10% 0;
+}
+
+.div-recipe-input {
+  margin: 3% 10%;
+}
+
+.recipe-input {
+  margin: 3% 0;
+}
+
+.row-ingredient {
+  width: 100%;
+  margin-top: 1%;
+  margin-left: -1%;
+  margin-right: 0;
+}
+
+.method-input {
+  margin: 2% 0;
+}
+
+.cook-btn {
+  margin-top: 1.5%;
+  margin-left: 8%;
+}
+
+@media screen and (max-width: 768px) {
+  .title-recipe {
+    margin: 0 11% 7%;
+  }
+  .recipe-input {
+    margin: 5% 0 6%;
+  }
+
+  .row-ingredient {
+    margin-top: 3%;
+    margin-left: -2%;
+  }
+
+  .method-input {
+    margin: 8% 0;
+  }
+
+  .row-recipe-list {
+    margin-left: -8%;
+    margin-right: -2%;
+  }
+
+  .cook-btn {
+    margin-top: 5%;
+  }
+}
