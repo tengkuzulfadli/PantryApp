@@ -1,0 +1,17 @@
+.title {
+  margin: 6% 11% 1%;
+  color: darkgray;
+  font-weight: 600;
+}
+.grid-container {
+  margin: 0 8%;
+}
+.add-input {
+  border: 1px solid grey;
+  padding-left: 3%;
+  border-radius: 10px;
+}
+.add-button {
+  margin: 0;
+  height: 100%;
+}
