@@ -1,0 +1,17 @@
+.title-2 {
+  margin: 0 11%;
+  color: darkgray;
+  font-weight: 500;
+  margin-top: 3%;
+}
+
+.grid,
+.list {
+  margin: 0 10%;
+}
+.nolist {
+  width: 100%;
+  color: gray;
+  margin-top: 20%;
+  text-align: center;
+}
