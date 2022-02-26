@@ -1,0 +1,9 @@
+export const ADD_INGREDIENT = 'ADD_INGREDIENT';
+export const DELETE_INGREDIENT = 'DELETE_INGREDIENT';
+
+export const ADD_RECIPE = 'ADD_RECIPE';
+export const DELETE_RECIPE = 'DELETE_RECIPE';
+export const SELECT_RECIPE = 'SELECT_RECIPE';
+
+export const ADD_HISTORY = 'ADD_HISTORY';
+export const DELETE_HISTORY = 'DELETE_HISTORY';
