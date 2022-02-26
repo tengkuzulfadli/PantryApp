@@ -12,7 +12,7 @@ For further documentation, please refer here : https://ionicframework.com/docs/r
 
 # State management using React Redux
 
-The UI contains 6 main sections:-
+The UI contains 8 main sections:-
 
 - An input box to let user type in the text of a new ingredient name
 - An input box to let user type in the text of a new ingredient quantity
